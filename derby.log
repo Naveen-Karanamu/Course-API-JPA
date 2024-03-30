@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 28 18:05:09 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018e-850e-956c-0000082496f0 
+on database directory memory:C:\Users\617054427\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\rest-api-jpa\50fc8f6c-2b42-4528-b29b-89206ce4a4ea with class loader org.springframework.boot.loader.launch.LaunchedClassLoader@4d405ef7 
+Loaded from jar:nested:/C:/Users/617054427/Documents/workspace-spring-tool-suite-4-4.22.0.RELEASE/rest-api-jpa/target/rest-api-jpa-0.0.1-SNAPSHOT.jar/!BOOT-INF/lib/derby-10.16.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=22+36-2370
+user.dir=C:\Users\617054427\Documents\workspace-spring-tool-suite-4-4.22.0.RELEASE\rest-api-jpa
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
